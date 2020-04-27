@@ -1,0 +1,28 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.dgerrard.crwb"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.dgerrard.crwb"
+    },
+    "cordova-music-controls": {
+      "PACKAGE_NAME": "com.dgerrard.crwb"
+    },
+    "cordova-plugin-media": {
+      "PACKAGE_NAME": "com.dgerrard.crwb"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.dgerrard.crwb"
+    }
+  }
+}
